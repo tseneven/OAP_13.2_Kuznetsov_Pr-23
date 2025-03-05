@@ -1,0 +1,9 @@
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\bin\Debug\Задание_2.exe.config
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\bin\Debug\Задание_2.exe
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\bin\Debug\Задание_2.pdb
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\obj\Debug\Задание_2.Form1.resources
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\obj\Debug\Задание_2.Properties.Resources.resources
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\obj\Debug\Задание_2.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\obj\Debug\Задание_2.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\obj\Debug\Задание_2.exe
+C:\Users\305-7\Desktop\Кузнецов Пр-23\Задание_2\obj\Debug\Задание_2.pdb
